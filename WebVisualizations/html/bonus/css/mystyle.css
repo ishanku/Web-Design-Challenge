@@ -1,0 +1,28 @@
+.navbar {
+      background: rgb(52,154,237);
+      background: linear-gradient(145deg, rgba(52,154,237,1) 50%, rgba(52,216,237,1) 100%);
+	}
+
+  	#blog .nav-link {
+  	    color: #fff;
+          font-weight: 500;
+  	    text-transform: uppercase;
+  	}
+
+      .navbar-brand .nav-link {
+        display: inline-block;
+        margin-right: -30px;
+      }
+
+        p {
+            margin-bottom: 1em;
+        }
+
+    	footer {
+    		padding: 10px 0 40px;
+    	}
+
+      body {
+            padding-top: 3.5rem;
+
+        }
